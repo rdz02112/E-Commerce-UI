@@ -7,8 +7,6 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173**
-
 ## 📦 Stack
 - React 18 + Vite
 - Recharts (charts)

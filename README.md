@@ -1,4 +1,4 @@
-# Lumé — E-Commerce Dashboard
+# UI — E-Commerce Dashboard
 
 ## 🚀 Quick Start
 
